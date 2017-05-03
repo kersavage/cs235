@@ -1,6 +1,6 @@
 /***********************************************************************
 * Program:
-*    Week 03, Stack
+*    Week 03, Queue
 *    Brother Helfrich, CS 235
 * Author:
 *    Br. Helfrich
