@@ -3,7 +3,7 @@
 *    Week 03, Queue
 *    Brother Helfrich, CS 235
 * Author:
-*    Br. Helfrich
+*    Kylor Kersavage
 * Summary: 
 *    This is a driver program to exercise the Queue class.  When you
 *    submit your program, this should not be changed in any way.  That being
